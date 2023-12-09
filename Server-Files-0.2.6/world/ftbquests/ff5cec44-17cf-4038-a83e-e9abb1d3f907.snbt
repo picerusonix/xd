@@ -1,0 +1,21 @@
+{
+	version: 1
+	uuid: "ff5cec4417cf4038a83ee9abb1d3f907"
+	name: "Nosferatu_Zod#ff5cec44"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		7CB163461B2D1723: 1
+	}
+	started: {
+		6C9E88A61ECCF898: 1697989339952L
+		7CB163461B2D1723: 1697989339952L
+		26E6ED94168A05C4: 1697989339952L
+		0000000000000001: 1697989339952L
+	}
+	completed: {
+		072FA02152FBC5B1: 1697989337592L
+	}
+	claimed_rewards: { }
+	player_data: { }
+}
